@@ -1,0 +1,58 @@
+USEFUL NOTES AND TABLES. 229
+
+gravities of these substances are inconsiderable, to render
+it more susceptible the ball of the instrument is pro-
+portionately large and the tube or stem very narrow.
+The: scale of the oleometer in general use (Gobby’s) is
+divided into 50 degrees, and it floats at 0 or zero in pure
+poppy oil; at 88 or 383 in pure almond oil, and at 50 in
+pure olive-oil. The standard temperature of the instru-
+ments made in this country is now 60°; those made on
+the Continent 54°5°F. The oil must therefore be brought
+to this normal temperature before testing it, by plunging
+the glass cylinder containing it into either hot or cold
+water, as the case may be; or a correction of the observed
+density must be made. The last is done by deducting 2
+from the indication of the instrument for each degree of
+the thermometer adove the normal temperature of the
+instrument, and adding 2 for every degree below it.
+Thus: suppose the temperature of the oil at the time of
+the experiment is 60° F’. and the oleometer indicates 60°,
+then—
+
+60°0° Actual temperature.
+64°5 Normal temperature.
+
+55 Difference.
+Indication of the oleometer
+The difference 55 K I=
+
+- 610
+11-0
+
+ 
+
+ 
+
+Real density ........ 50-0
+
+Suppose the temperature observed at the time of the
+experiment is 52° and the oleometer indicates 45°, then—
+
+54:5 Normal Temperature.
+52°0 Actual Temperature.
+26 Difference.
+Indication of the oleometer .sssscrees 45"
+The difference 25 X Y=
+
+  
+
+Real density,,..+..0.. 50"
+
+The oil is therefore presumed to be pure.
+
+Aluminate of Soda.—It has been proposed to employ
+this salt as a substitute for caustic soda in the manufac-
+ture of soap. Aluminate of soda is prepared from dausite,
+an aluminate of iron, and from cryolite, a double fluoride
+

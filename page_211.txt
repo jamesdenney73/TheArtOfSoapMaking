@@ -1,0 +1,46 @@
+ALKALIMETRY. 195
+
+flow gradually into the alkaline solution (which should be
+constantly stirred with a glass rod) until the liquid
+assumes a purple tint, which it retains until the exact
+point of saturation is reached, when it suddenly changes
+to pink. It is commonly the practice to warm the
+alkaline solution so as to expel the carbonic acid which is
+evolved and absorbed by the solution during the process
+of saturation. When the neutralisation is complete, the
+alkalimeter is allowed to repose for a few moments, so
+that the acid liquor may drain from the interior of the
+glass into the bulk of the fluid, and the quantity of test-
+acid used is then determined by reading off the number
+of divisions which have been exhausted.
+
+Every alkalimeter division of Mohr’s burette (Fig. 34)
+represents ;}5th part, or 1 per cent., of alkali, when
+100 grains are taken for assay.
+
+fn commercial assays, when 100 grains (or some
+aliquot part thereof) are taken for trial, the percentage
+result is obtained from the number of alkalimeter divisions,
+or the number of grains of the test-acid consumed by
+the common ‘ Rule of Proportion.’ Thus: A crude sample
+of potash, having taken 90 alkalimeter divisions of test-
+acid to neutralise it, would contain—
+
+100 : 47 72,90 ; 42°30
+
+or nearly 423 per cent. of puré potassa. If only 50, 25,
+or 20 grains are tested, the result must, of course, be
+double, quadrupled, &c., as the case may be. Or the third
+term of the proportion may be multiplied by the denomi-
+nator of the fraction representing the aliquot part. This,
+in the case of 50 grains (repeating the above example),
+would be—
+100 1472145 X22 42308
+
+as before; but even these easy calculations may be
+simplified, as is shown below.
+
+“One of the advantages, and not the least, attending
+the use of test-acids corresponding to equivalents is that,
+by means of the simple ‘Rule’of Three,’ the percentage
+

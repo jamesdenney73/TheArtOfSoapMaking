@@ -1,0 +1,44 @@
+ALKALIMETRY. 197
+
+“ Commercial Soda.—Five hundred grains are weighed
+out from the thoroughly powdered and mixed sample.
+After being dried it should be gently ignited in a porce-
+lain or platinum crucible, and allowed to cool without
+exposure to the air. When cool it is again weighed; the
+loss indicates the amount of moisture. It is then washed
+into a beaker, in which it is dissolved. Should any in-
+soluble residue remain it is filtered off, dried, and weighed;
+the clear filtrate is made up [with distilled water] to
+exactly 10,000 grain measures. The solution is well
+mixed together, and from it 1,000 grain measures are
+taken, transferred to a beaker, the solution made blue by
+a few drops of litmus water, heated nearly to boiling, and
+then tested with the normal acid [or standard test-acid]
+until the neutral point is reached; the process may be
+repeated several times, if necessary, to be certain of the
+accuracy of the analysis. In order, however, to avoid all
+ambiguity arising from the carbonic acid, a sufficient
+quantity of acid may be added to render the acid very
+decidedly red, and then the normal caustic alkali* added
+drop by drop until the liquid changes suddenly to
+violet-blue. The number of divisions of the burette
+that have been required to effect this must be deducted
+from the quantity of acid originally used. By this
+backward or residual method very sharp results may be
+obtained.
+
+“ Example.—Suppose 850 burette divisions of the nor-
+mal acid have been required, the following calculation
+gives the amount of real carbonated alkali in the sample :—
+
+1000 ; 850°; 538 7 x
+
+a2 = 45, the amount of carbonate of sodium in 58 grains
+of the sample.
+“The soda ash of commerce contains generally, besides
+
+* The normal caustic alkali solution is prepared by dissolving exactly
+56 grains of hydrate of potassa (pure caustic potash), or 40 grains of
+hydrate of soda (pure caustic soda), in 1,000 water-grain measures of dis-
+tilled water. The solution is applied from a burctte.
+
